@@ -1,0 +1,9 @@
+What I had done and learned last week:
+
++ Created a Google Account
++ Created a GitHub account
++ Created a project named "os171"
++ Filled form on Google Form
++ SSH into badak.cs.ui.ac.id
++ Login SSH with our JUITA Account
++ Using terminal based text editor (nano, vi, and vim)
