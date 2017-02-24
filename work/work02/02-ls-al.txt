@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 2 affan.dhia StafCS 4096 Feb 24 17:41 .
-drwxr-xr-x 3 affan.dhia StafCS 4096 Feb 24 17:40 ..
--rw-r--r-- 1 affan.dhia StafCS 1550 Feb 24 17:24 00-toc.txt
--rw-r--r-- 1 affan.dhia StafCS 3107 Feb 24 17:24 01-public-osteam.txt
--rw-r--r-- 1 affan.dhia StafCS    0 Feb 24 17:41 02-ls-al.txt
