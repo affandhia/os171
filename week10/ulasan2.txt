@@ -1,0 +1,16 @@
+ULASAN 2 3D XPOINT TECH IN OPTANE SSD
+
+Video yang dibahas kali ini berjudul Intel IDF 2016 Shenzhen Intel Optane SSD yang berdurasi 6 menit 38 detik. Video yang berasal dari kanal youtube Hardwareluxx ini dapat diakses melalui https://youtu.be/8ISbmQTbjDI. Sejak diupload pada 15 April 2016, video ini telah ditonton sebanyak 15,252 terhitung hingga 20 Mei 2017 pukul 13:32.
+
+Video ini merupakan sebuah video yang direkam dalam konferensi Intel Developer Forum (IDF16) dengan presenter yaitu Robert B. Crooke. Di awal presentasi, Rob menjelaskan bagaimana Intel mengembangkan 3D NAND Technology dan 3D XPoint Technology. Terdapat visualisasi bagaimana 3D NAND yang dikembangan oleh Intel dapat dengan mudah meningkatkan skala penyimpanan dengan cara memperkecil antar pilar. Rob hanya menjeaskan sedikit  tentang 3D NAND Technology karena terdapat teknologi yang lebih baru yang dibawa oleh Intel, yaitu 3D XPoint Technology pada Intel Optane SSD. Teknologi penyimpanan ini berbeda dari teknologi penyimpanan non-volatile yang ada, tidak ada transistor didalamnya. Dengan cara mengakses langsung ke bit-bit tertentu dibanding mengakses blok-blok besar informasi, membuat 3D XPoint memberikan performa jauh lebih cepat dibanding transistor. Strukturnya terdiri dari selector dan memory cell yang dilapisi seperti sandwich oleh batang-batang kabel disusun secara menyilang. Rob pun menjelaskan bagaimana akses data write dan read pada 3D XPoint Technology dengan kombinasi voltase pada batang tembaga yang melapisi selector dan memory cell. Video diakhiri dengan simulasi perbandingan antara 3D NAND Techonlogy dengan 3D XPoint Technology. Diperlihatkan bagaimana memindahkan data dari internal storage ke eksternal storage untuk NAND SSD dan OPTANE SSD 3D XPoint Technology. Dengan kecepatan yang lumayan cepat untuk NAND SSD untuk memindahkan data sebesar 20 GB dikisaran 430 MB/s, Optane SSD 3D XPoint Technology menunjukan performanya dengan kecepatan 2000 MB/s.
+
+Video ini menjelaskan bagaimana teknologi 3D XPoint bekerja dan siap menghadapi tantangan dunia yang membutuhkan akses data sangat cepat. Orang awam pun mudah untuk mengerti bagaimana NAND Tech bekerja dan 3D XPoint bekerja. Dengan adanya teknologi 3D XPoint yang memberikan masa depan cerah bagi Non-volatie Mass Storage Data, kemungkinan nanti RAM akan tergantikan olehnya.
+
+
+Github Account : affandhia 
+URL Ulasan : http://osaffandhia.blogspot.com/2017/05/ulasan-2-3d-xpoint-tech-in-optane-ssd.html
+URL Video : https://youtu.be/GZaEbpnhoNM (6 menit 38 detik) 
+Video Author : Hardwareluxx 
+Pemetaan : Week09 
+Revisi Pertama: 20 Mei 2017 
+Revisi Terakhir: 20 Mei 2017

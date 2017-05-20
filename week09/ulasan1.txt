@@ -1,0 +1,15 @@
+ULASAN 1 WEBSOCKET DAN SIMULASI MESIN ESP8266
+
+Video yang dibahas kali ini berjudul WebSockets for awesome on the ESP8266 yang berdurasi 6 menit 53 detik. Video yang berasal dari kanal youtube CNLohr ini dapat diakses melalui https://youtu.be/8ISbmQTbjDI. Sejak diupload pada 18 Agustus 2015, video ini telah ditonton sebanyak 55,303 terhitung hingga 20 Mei 2017 pukul 13:04.
+
+Video ini membahas bagaimana sistem web bekerja. Dijelaskan bagaimana pada awal perkembangan web dimana client dan server berhubungan hingga sebuah web terender dengan baik. Pertama sebuah client dan server akan membangun koneksi hingga ada respon "OK" dari server. Lalu data yang dibutuhkan oleh client akan diberikan oleh server. Setelah semua data selesai diberikan, client memberi respon dan koneksi ditutup. Seiring berjalannya waktu, XMLHTTPRequest memberi invoasi baru dalam mengirim paket data. Sebuah request akan dipecah menjadi paket-paket data lalu dikirimkan secara sequential hingga paket-paket dari server diterima kembali oleh client. Terakhir, CNLohr membahas bagaimana WebSocket bekerja lebih efisien. Paket-paket request yang dikirim secara sequential akan langsung diberikan oleh server secara langsung tanpa harus me-reload ulang page. Lalu di sisa video, CNLohr mempraktikan bagaimana websocket itu bekerja dengen mensimulasikannya dalam mesin ESP8266.
+
+Menurut saya video ini sangat membantu dalam memahami bagaimana sebuah website diload hingga inovasi canggih yang diberikan oleh websocket. Dengan penjelasan yang mudah dimengerti serta dilengkapi dengan simulasi websocket membuat materi yang dibawakan lebih cepat dimengerti.
+
+Github Account : affandhia 
+URL Ulasan : http://osaffandhia.blogspot.com/2017/05/ulasan-1-websocket-dan-simulasi-mesin.html 
+URL Video : https://youtu.be/8ISbmQTbjDI (6 menit 53 detik) 
+Video Author : CNLohr 
+Pemetaan : Week08 
+Revisi Pertama: 20 Mei 2017 
+Revisi Terakhir: 20 Mei 2017
