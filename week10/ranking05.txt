@@ -1,0 +1,20 @@
+-----------------------------------------
+RANKING05 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+01. [W05-021] 400 http://fizhazuharah.blogspot.co.id/2017/05/ulasan-2-virtual-memory-page-tables.html
+02. [W05-002] 394 http://dzakialyafi.blogspot.co.id/2017/05/ulasan-2-video-ini-dibuat-oleh-kanal.html
+03. [W05-029] 390 http://ibrahim52ui.blogspot.co.id/2017/05/ulasan-2-memory-segmentation.html
+04. [W05-009] 388 http://agnesmls.blogspot.co.id/2017/05/ulasan-2-week05.html
+05. [W05-026] 387 http://cymon1997-os171.blogspot.co.id/2017/05/ulasan-1-memory-manager.html
+06. [W05-010] 385 http://andrehendra.blogspot.co.id/2017/05/ulasan-2-os.html
+07. [W05-017] 383 http://osissofun.blogspot.co.id/2017/05/ulasan-1-how-computer-memory-works.html
+18. [W05-030] 383 http://fmardadi.blogspot.co.id/2017/05/ulasan-1-mutlicores-cpu.html
+19. [W05-025] 380 http://hairegina.blogspot.co.id/2017/05/ulasan2-file-system-as-fast-as-possible.html
+10. [W05-024] 380 http://riandanigitalrst.blogspot.co.id/2017/05/ulasan-2.html
+11. [W05-012] 380 http://monthlyposting.blogspot.co.id/2017/05/ulasan-1-os-virtual-address-translation.html
+-------------------------------------------
+Oleh (GITHUB)  : affandhia
+URL BLOG RANKING : http://osaffandhia.blogspot.com/2017/05/ranking05.html
+Revisi Pertama  : 23 Mei 2017
+Revisi Pertama  : 23 Mei 2017
+-------------------------------------------
